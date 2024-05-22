@@ -1,0 +1,34 @@
+body {background-image: url("/home/student/Desktop/APARNA/Abstract Watercolor Splash Company Profile Background, Simple, Company Profile, Watercolor Background Image And Wallpaper for Free Download_files/watercolor.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: scroll;
+background-repeat: no-repeat;
+}
+h1 {color: black;}
+h2 {color: brown;}
+h3 {color:  darkviolet;}
+h4 {color:brown;}
+c {color:yellow;}
+p {
+color: black;
+font-family: courier;
+font-size: 120%;
+border: 2px solid black;
+padding: 10px;
+}
+body {
+color: black;
+font-family: courier;
+font-size: 120%;
+border: 4px solid black;
+padding: 10px;
+}
+ul {
+color: Green;
+font-family: TimesNewRoman;
+}
+ol {
+color: orange;
+font-family: italic;
+}
+
